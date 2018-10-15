@@ -17,3 +17,5 @@ Data includes the following details for each of the passengers.
 - Fare : Passenger Fare
 - Cabin : Cabin
 - Embarked : Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+# Question :
+- What factors made people more likely to survive ?
