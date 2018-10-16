@@ -1,5 +1,5 @@
 # Titanic-Basic-Data-Exploration
-Digging into the Titanic Kaggle datasets. (tentative findings)
+Digging into the Titanic Kaggle datasets. (tentative findings, my first data analysis project)
 
 # Preview :
 The Titanic data Contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic Ship. 
