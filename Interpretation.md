@@ -6,7 +6,7 @@ I filtered out rows basing on missing values in the column 'Age' since missing A
 
 Gender, age and social class played a major role in determining a passenger's chance to survive :
 
-- women have a positive survival rate 75,47 %
+- women have a higher survival rate 75,47 %
 - men have a lower survival rate 20,52 %
 
 Social class was in favor only for women of the first and the second class:
@@ -15,7 +15,7 @@ Social class was in favor only for women of the first and the second class:
 * 91,89 % of women from 2 Class were survived
 * while 46,07 % of women from 3 Class were survived
 
-Only the 'Child' and the 'Baby' Categories have highest survival rate : 
+Only the 'Child' and the 'Baby' Categories have higher survival rate : 
 
 * Adult 38,10 %
 * Teenager 46,93 %
